@@ -4,10 +4,9 @@
 
 This project contains a Forge app written in Typescript that creates `Calculator` using [UI Hooks](https://developer.atlassian.com/platform/forge/ui-hooks-reference/)
 
-
 ## Screenshot
-![Application screenshot](./assets/screenshot.png)
 
+![Application screenshot](./assets/screenshot.png)
 
 ## Learning Forge
 
@@ -19,23 +18,9 @@ See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/)
 
 ## Quick start
 
-- Build and deploy your app by running:
-
-```
-forge deploy
-```
-
-- Install your app in an Atlassian site by running:
-
-```
-forge install
-```
-
-- Develop your app by running `forge tunnel` to proxy invocations locally:
-
-```
-forge tunnel
-```
+- Build and deploy your app by running: `forge deploy`
+- Install your app in an Atlassian site by running: `forge install`
+- Develop your app by running `forge tunnel` to proxy invocations locally: `forge tunnel`
 
 ### Notes
 
@@ -45,12 +30,10 @@ forge tunnel
 
 ## Support
 
-- Reach me at [Attlassian Community](https://community.atlassian.com/t5/user/viewprofilepage/user-id/690016)
+- Reach me at [Attlassian Community Profile](https://community.atlassian.com/t5/user/viewprofilepage/user-id/690016)
 - See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
 
-
 ## License
+
 Copyright (c) 2020 Deepak Jangid
 MIL Licensed, see [LICENSE](LICENSE) file.
-
-[![From Atlassian](https://raw.githubusercontent.com/atlassian-internal/oss-assets/master/banner-cheers.png)](https://www.atlassian.com)
