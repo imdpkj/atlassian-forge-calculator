@@ -1,0 +1,9 @@
+.AppleDouble
+**/.AppleDouble
+*.swp
+*.*~
+.DS_Store
+/node_modules/
+/dist/
+/.vscode/
+.idea

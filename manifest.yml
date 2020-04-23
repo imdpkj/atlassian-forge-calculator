@@ -1,0 +1,13 @@
+modules:
+  "jira:issuePanel":
+    - key: steel-forge-attachment-panel
+      function: calculator
+      title: Steel Forge Calculator
+      description: A Forge panel with Calculator inside
+  function:
+    - key: calculator
+      handler: index.run
+
+app:
+  id: "ari:cloud:ecosystem::app/ea725ac7-f187-4de6-b163-ae856cb94d8e"
+  name: steel-forge
